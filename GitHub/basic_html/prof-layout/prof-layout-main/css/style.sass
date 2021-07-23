@@ -1,0 +1,491 @@
+@import vars
+
+*
+    margin: 0
+    padding: 0
+    box-sizing: border-box
+
+summary
+    outline: none
+
+summary::-webkit-details-marker
+    display: none
+
+summary::after
+    content: ""
+
+details[open] summary::after
+    content: ""
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+    -webkit-appearance: none
+    margin: 0
+
+.center
+    padding-left: calc(50% - 570px)
+    padding-right: calc(50% - 570px)
+
+    &_wide
+        padding-left: calc(50% - 800px)
+        padding-right: calc(50% - 800px)
+
+.ta-center
+    text-align: center
+
+body
+    font-family: 'Lato', sans-serif
+    min-width: 375px
+
+.hidden
+    display: none!important
+
+/* --ALL PAGES-- */
+
+.button-link
+    font-weight: normal
+    font-size: 16px
+    line-height: 19px
+    color: $mainColor
+    text-decoration: none
+    padding: 15px 39px
+    border: 1px solid $mainColor
+    transition: .3s
+
+/* --HEADER-- */
+
+.header
+    height: 75px
+    padding-bottom: 19px
+    display: flex
+    justify-content: space-between
+    align-items: flex-end
+    position: relative
+    background: #222222
+
+    &__right > :nth-child(n),
+    &__left > :nth-child(n)
+        cursor: pointer
+        text-decoration: none
+
+    &__left > :not(:first-child)
+        margin-left: 44px
+
+    &__right > :not(:last-child)
+        margin-right: 33px
+
+.logo
+    display: inline-block
+
+.navigation
+    position: absolute
+    top: 75px
+    right: 0px
+    z-index: 2
+    width: 232px
+    padding: 37px 34px
+    min-height: 764px
+    background-color: white
+    box-shadow: 6px 4px 35px rgba(0, 0, 0, 0.21)
+    border: 1px solid $mainColor
+
+    &__close-button
+        padding: 16px
+        position: absolute
+        top: 0
+        right: 0
+        cursor: pointer
+
+        &:hover
+            background-color: $mainColor
+
+            & svg path
+                fill: white
+
+    &__heading
+        margin-bottom: 24px
+        font-weight: bold
+        font-size: 14px
+        line-height: 17px
+        color: black
+
+    &__list_first-level,
+    &__list_second-level
+        list-style-type: none
+
+    &__list_first-level > li:nth-child(2n + 1)
+        margin-bottom: 12px
+
+    &__list_first-level > li:nth-child(2n):not(:last-child)
+        margin-bottom: 20px
+
+    &__list_second-level > li:not(:last-child)
+        margin-bottom: 11px
+
+    &__list_second-level
+        padding-left: 20px
+
+    &__list
+        &_first-level > li > a,
+        &_second-level > li > a
+            text-decoration: none
+            font-size: 14px
+            line-height: 17px
+
+        &_first-level > li > a
+            color: $mainColor
+
+        &_second-level > li > a
+            color: #6F6E6E
+
+            &:hover
+                color: $mainColor
+
+/* --PREVIEW-- */
+
+.preview
+    height: 764px
+    background: #F1E4E6
+
+    &__container
+        width: 100%
+        max-width: 1600px
+        margin: 0 auto
+        height: 100%
+        padding-left: 863px
+        background-image: url(../img/preview.png)
+        background-repeat: no-repeat
+        background-size: contain
+        display: flex
+        align-items: center
+
+    &__heading
+        font-weight: 900
+        color: #222222
+        border-left: 12px solid $mainColor
+        padding-left: 16px
+
+.up-case
+    font-size: 48px
+    line-height: 51px
+    letter-spacing: 0.6px
+
+.normal-case
+    font-size: 30px
+    letter-spacing: 1.5px
+
+.pink
+    color: $mainColor
+    & svg path
+        fill: $mainColor
+
+@media (max-width: 1600px)
+    .preview__container
+        padding-left: calc(50% + 63px)
+
+/* --DEALS-- */
+
+.deals
+    padding-top: 65px
+    padding-bottom: 65px
+
+    & > :not(:last-child)
+        margin-bottom: 30px
+
+    &__elements
+        display: flex
+        justify-content: space-between
+
+    &__elements a
+        text-decoration: none
+
+    &__element-small
+        width: 360px
+        height: 260px
+
+    &__element-big
+        width: 1140px
+        height: 180px
+
+    &__element-small,
+
+    &__element-big
+        background-size: cover
+        background: rgba(33, 22, 22, 0.7)
+        display: flex
+        justify-content: center
+        align-items: center
+
+    &__element_women
+        background-image: url(../img/deals_women.jpg)
+
+    &__element_men
+        background-image: url(../img/deals_men.jpg)
+
+    &__element_kids
+        background-image: url(../img/deals_kids.jpg)
+
+    &__element_accesories
+        background-image: url(../img/deals_accesories.jpg)
+
+    &__heading
+        text-align: center
+
+    &__info
+        font-weight: normal
+        font-size: 16px
+        color: #FFFFFF
+
+    &__category
+        font-size: 24px
+
+/* --PRODUCTS-- */
+
+.products
+    padding-top: 31px
+    padding-bottom: 95px
+
+    &__heading
+        margin-bottom: 6px
+        font-weight: normal
+        font-size: 30px
+        line-height: 36px
+        color: #222222
+        text-align: center
+
+    &__text
+        font-size: 14px
+        line-height: 17px
+        color: #9F9F9F
+        text-align: center
+
+    &__box
+        margin-top: 48px
+        display: flex
+        flex-wrap: wrap
+        justify-content: space-between
+
+.product
+
+    &__card
+        width: 360px
+        margin-bottom: 30px
+        background: #F8F8F8
+        position: relative
+
+        & a img
+            transition: .3s
+        &:hover a img
+            filter: brightness(0.5)
+
+        &:hover .add-to-cart
+            display: flex
+
+    &__info
+        padding: 0 18px
+
+    &__name
+        margin-top: 22px
+        margin-bottom: 12px
+        display: inline-block
+        font-weight: normal
+        font-size: 13px
+        line-height: 16px
+        text-decoration: none
+        color: black
+
+    &__description
+        font-weight: 300
+        font-size: 14px
+        line-height: 17px
+        color: #5D5D5D
+
+    &__price
+        margin-top: 18px
+        margin-bottom: 20px
+        font-size: 16px
+        line-height: 19px
+
+.add-to-cart
+    width: 139px
+    height: 44px
+    padding: 0 12px
+    display: none
+    justify-content: space-around
+    align-items: center
+    text-decoration: none
+    font-size: 14px
+    line-height: 17px
+    color: white
+    border: 1px solid white
+    border-radius: 2px
+    top: 188px
+    left: 111px
+    position: absolute
+    transition: .3s
+
+    &:hover
+        color: black
+        background-color: white
+
+    &:hover svg path
+        fill: black
+
+.products__button
+    display: inline-block
+    margin: 16px auto 0
+
+    &:hover
+        color: white
+        background-color: $mainColor
+
+/* --SPECIAL-OFFERS-- */
+
+.special-offers
+    padding-top: 104px
+    padding-bottom: 104px
+    display: flex
+    justify-content: space-between
+    background-color: #222224
+
+    &__card
+        max-width: 360px
+        display: flex
+        flex-direction: column
+        align-items: center
+        flex-grow: 1
+
+    &__card svg
+        height: 32px
+
+    &__icon
+        margin-bottom: 28px
+
+    &__heading
+        margin-bottom: 16px
+        font-weight: normal
+        font-size: 20px
+        line-height: 24px
+        text-align: center
+        color: #FBFBFB
+
+    &__description
+        font-weight: 300
+        font-size: 14px
+        line-height: 17px
+        text-align: center
+        color: #FBFBFB
+
+/** --SUBSCRIBE-- */
+
+.subscribe
+    padding-top: 97px
+    padding-bottom: 126px
+    background: url(../img/subscribe_background.jpg) no-repeat left
+    background-size: cover
+    display: flex
+    justify-content: space-between
+    align-items: flex-end
+
+    &__info,
+
+    &__form
+        display: flex
+        flex-direction: column
+        align-items: center
+
+    &__info
+        max-width: 360px
+
+    &__info img
+        margin-bottom: 30px
+
+    &__review,
+
+    &__text
+        font-size: 20px
+        line-height: 24px
+        text-align: center
+        color: #222224
+
+    &__form
+        width: 557px
+
+    &__heading
+        font-weight: bold
+        font-size: 24px
+        line-height: 167.2%
+        text-align: center
+        color: #222224
+
+    &__form-element
+        margin-top: 32px
+        display: flex
+
+    &__input,
+    &__button
+        outline: none
+        height: 50px
+        font-size: 14px
+        line-height: 17px
+        border: none
+
+    &__input
+        width: 256px
+        padding: 6px 22px
+        overflow: hidden
+        color: #222222
+        background: #E1E1E1
+        border-radius: 25px 0 0 25px
+
+    &__button
+        width: 100px
+        text-align: center
+        color: #FFFFFF
+        background: $mainColor
+        border-radius: 0 25px 25px 0
+
+/* --FOOTER-- */
+
+.footer
+    padding-top: 24px
+    padding-bottom: 24px
+    background-color: #222224
+    display: flex
+    justify-content: space-between
+    align-items: center
+
+.copyright
+    font-size: 16px
+    line-height: 19px
+    color: #FBFBFB
+
+.social-icons
+    display: flex
+
+    &__link:not(:last-child)
+        display: inline-block
+        margin-right: 7px
+    
+    &__link > svg > path
+        transition: .3s
+
+    &__link:hover > svg > path:first-child
+        fill: $mainColor
+
+    &__link:hover > svg > g > path,
+
+    &__link:hover > svg > path:not(:first-child)
+        fill: white
+
+@import breadcrumbs
+@import filter-and-sort
+@import pagination
+@import product-page
+@import form
+@import cart
+@import registration
+
+@import style-1200
+@import style-767
+@import style-374

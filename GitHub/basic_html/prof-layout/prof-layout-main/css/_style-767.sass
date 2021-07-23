@@ -1,0 +1,63 @@
+@media (max-width: 767px)
+    .center
+        padding-left: calc(50% - 171.5px)
+        padding-right: calc(50% - 171.5px)
+
+    .header__right
+        & > :first-child
+            margin-right: 0
+        & > :not(:first-child)
+            display: none
+
+    .navigation
+        width: 100%
+        min-height: calc(100vh - 75px)
+
+    .preview
+        &__container
+            padding-left: 0
+            background-image: none
+            display: flex
+            justify-content: center
+
+    .up-case
+        font-size: 38px
+        line-height: 36px
+
+    .normal-case
+        font-size: 18px
+
+    .subscribe
+        background-position-x: -500px
+        &__form
+            width: 100%
+        & > :not(:last-child)
+            margin-bottom: 48px
+
+    .deals
+        & > :not(:last-child)
+            margin-bottom: 0
+
+        &__elements
+            flex-wrap: wrap
+
+        &__element-small
+            width: 343px
+            height: 247px
+            margin-bottom: 32px
+
+        &__element-big
+            width: 343px
+            height: 111px
+
+    .products
+        padding-left: calc(50% - 180px)
+        padding-right: calc(50% - 180px)
+
+    .footer
+        padding-top: 43px
+        padding-bottom: 9px
+        flex-direction: column-reverse
+
+    .social-icons
+        margin-bottom: 40px
