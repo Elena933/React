@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d08e743a-49b7-4e43-8645-2f2fed9114c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/Documents.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/123/.idea/123.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/123/src/sd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/counter-react-new/.idea/counter-react-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/counterOnUSEffect/.idea/use-effect-counter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/counterReact/.idea/reactCounter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/counter_js/.idea/counter_js.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/new-counter-react/.idea/new-counter-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/AllCounters/typeScript-counter-wishList/.idea/counter-typescript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Caclulators/PayTimerCalculator/.idea/timer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Caclulators/loan-carculator/.idea/loan-carculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/game/.idea/tic-tac-toe-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/.idea/memorygame.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/components/Board.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/components/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/redux/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/redux/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/reportWebVitals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/memorygame/src/setupTests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Games/react_game/.idea/react_game.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Kanbans/KanbanON-redux-axios/.idea/redux-axios-data.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Kanbans/kanban-react/.idea/kanban-react.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/Routes/react-router/.idea/react-router.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/ToDoLists/redux-to-do-list-new/.idea/redux-to-do-list-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/ToDoLists/redux-to-do-list-new/src/inter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/ToDoLists/to-do-react-new/.idea/to-do-react-new.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/interv/.idea/interv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/l/.idea/l.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/pythom/.idea/pythom.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/rating-stars/.idea/rating-stars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/rating-stars/src/StarRating.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ReactPASV/untitled2/hj.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/ArrayMethods/arraymethod_unit_01_template/unit_01/.idea/unit_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/ArrayMethods/hm/arraymethod_unit_02_template/unit_02/.idea/unit_02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/ArrayMethods/hm/arraymethod_unit_03_template/.idea/arraymethod_unit_03_template.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/lUCHENKO_classes/unit_01/unit_01/.idea/unit_01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/lUCHENKO_classes/unit_04/.idea/unit_04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/lUCHENKO_classes/unit_05/.idea/unit_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../classes/lUCHENKO_classes/unit_05/unit_05/.idea/unit_05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../projectsGB/React/react_/.idea/react_.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.idea/kanban.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/Column.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/Task.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kanban/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.idea/new-counter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new-counter/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/redux_thunk.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/redux/Actions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/redux/AddCardModal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/redux/Reducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/redux/Store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../reactCounter/.idea/reactCounter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.idea/react_game.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/Square.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../react_game/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.idea/redux-kanban.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/redux/Reducers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/redux/Store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../redux-kanban/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.idea/to-do-list-app.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/AddTask.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/TaskItem.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/Title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/ToDoList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../to-do-list-app/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_01/unit_01/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_01/unit_01/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_01/unit_01/.idea/unit_01.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_01/unit_01/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_04/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_04/.idea/unit_04.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_04/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_04/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_05/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_05/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_05/.idea/unit_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_05/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../lUCHENKO_classes/unit_05/unit_05/.idea/unit_05.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/React/react_/.idea/react_.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../projects/certif.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/Cover letter_OLENA KRYVONIS.DOCX" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../resume/Cover letter_OLENA KRYVONIS.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2L7QCqTQ2h2ax1H5RE2v2QiZTZ5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Elena/OneDrive/Documents/PASV/counterRedux",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d08e743a-49b7-4e43-8645-2f2fed9114c7" name="Changes" comment="" />
+      <created>1675219516675</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1675219516675</updated>
+      <workItem from="1675219518042" duration="1248000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

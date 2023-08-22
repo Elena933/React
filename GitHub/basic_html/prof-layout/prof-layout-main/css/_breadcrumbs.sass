@@ -1,0 +1,50 @@
+@import vars
+
+.breadcrumbs
+    padding-top: 60px
+    padding-bottom: 60px
+    background: #F8F3F4
+    display: flex
+    justify-content: space-between
+    align-items: center
+
+    &__paragraph
+        font-size: 24px
+        line-height: 31px
+        color: $mainColor
+
+    &__nav
+        display: flex
+        list-style-type: none
+
+    &__link
+        margin-right: 6px
+        display: inline-block
+        text-decoration: none
+        font-weight: 300
+        font-size: 14px
+        line-height: 17px
+        color: #636363
+
+        &:hover
+            color: $mainColor
+
+    &__element
+
+        &:not(:last-child)
+            margin-right: 6px
+
+        &:not(:last-child)::after
+            content: '/'
+            color: #636363
+        
+        &:last-child a
+            font-weight: bold
+            color: $mainColor
+    
+
+@media (max-width: 767px)
+    .breadcrumbs
+        flex-direction: column
+        &__paragraph
+            margin-bottom: 32px

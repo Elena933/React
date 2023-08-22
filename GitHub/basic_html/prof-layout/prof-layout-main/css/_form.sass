@@ -1,0 +1,70 @@
+@import vars
+
+.form
+    display: flex
+    flex-direction: column
+    align-items: end
+    font-weight: 300
+    &_cart,
+    &_registration
+        width: 360px
+
+    &__heading
+        font-weight: 300
+        font-size: 16px
+        line-height: 19px
+        color: #222222
+        margin-bottom: 20px
+        &:not(:first-child)
+            margin-top: 34px
+
+    &__text
+        font-weight: 300
+        font-size: 13px
+        line-height: 16px
+        color: #B1B1B1
+
+    &__button-icon
+        margin-left: 20px
+
+    &__input
+        width: 100%
+        margin-bottom: 20px
+        font-weight: 300
+        font-size: 13px
+        line-height: 16px
+        color: #222
+        padding: 16px
+        outline: none
+        border: 1px solid #A4A4A4
+
+        &::placeholder
+            color: #B1B1B1
+
+    &__radio
+        font-size: 11px
+        line-height: 13px
+        color: #000000
+        & > :not(:last-child)
+            margin-right: 10px
+        & > input[type="radio"]:not(:first-child)
+            margin-left: 10px
+
+.mt-40
+    margin-top: 40px
+
+.width-auto
+    width: auto
+
+
+
+@media (max-width: 1200px)
+    .form_cart
+        width: 734px
+        flex-direction: row
+        justify-content: space-between
+
+@media (max-width: 767px)
+    .form_cart
+        width: 360px
+        flex-direction: column

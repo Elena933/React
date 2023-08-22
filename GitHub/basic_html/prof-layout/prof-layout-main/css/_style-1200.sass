@@ -1,0 +1,54 @@
+@media (max-width: 1200px)
+    .center
+        padding-left: calc(50% - 368px)
+        padding-right: calc(50% - 368px)
+
+    .preview
+        height: 368px
+
+        &__container
+            max-width: 736px
+            padding-left: 407px
+
+    .up-case
+        font-size: 44px
+
+    .normal-case
+        font-size: 24px
+        letter-spacing: 1px
+
+    .special-offers
+        padding-top: 48px
+        padding-bottom: 64px
+        display: flex
+        flex-direction: column
+        align-items: center
+        & > :not(:last-child)
+            margin-bottom: 48px
+
+    .subscribe
+        padding-top: 64px
+        padding-bottom: 140px
+        background-position-x: -250px
+        flex-direction: column
+        align-items: center
+        & > :not(:last-child)
+            margin-bottom: 48px
+
+    .deals
+        &__element-small
+            width: 232px
+            height: 168px
+
+        &__element-big
+            width: 735px
+            height: 116px
+
+        &__element_women,
+        &__element_men,
+        &__element_kids,
+        &__element_accesories
+            background-size: contain
+
+    .last-odd
+        display: none

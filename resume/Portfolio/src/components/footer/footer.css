@@ -1,0 +1,22 @@
+footer {
+    background: var(--color-primary);
+    padding: 10px;
+    text-align: center;
+    font-size: 0.7rem;
+    margin-top: 15px;
+}
+footer a {
+    color: var(--color-bg);
+}
+.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 auto 3rem;
+
+}
+.footer-copy {
+    margin-bottom: 4rem;
+    color: var(--color-bg);
+}
