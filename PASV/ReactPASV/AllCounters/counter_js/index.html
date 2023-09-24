@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1 id="counter">CounterJS</h1>
+<button onclick="plus()">+</button>
+<button onclick="minus()">-</button>
+<button onclick="reset()">Reset</button>
+
+
+<!--<input type="text" id ='toDoInput'/>-->
+<!--<button onclick="addToList()"> Add to list</button>-->
+<!--<ul id="list">-->
+<!--    <li>1</li>-->
+<!--    <li>2</li>-->
+<!--    <li>2</li>-->
+
+<!--</ul>-->
+<script>
+        let count = 0
+        const select = document.getElementById('counter')
+    function plus() {
+        select.innerText = ++count
+    }
+
+    function minus() {
+        select.innerText = --count
+    }
+
+    function reset() {
+        select.innerText = 0
+    }
+
+    // const list = [
+    //     {
+    //         id: 1,
+    //         title: 'learnJS',
+    //     },
+    //     {
+    //         id: 1,
+    //         title: 'learn React',
+    //     }
+    // ];
+    //
+    // const listElemet = document.getElementById('list')
+    // const toDoInput = document.getElementById('toDoInput')
+    //
+    // function render() {
+    //
+    //     list.forEach(el => {
+    //         const listItem = document.createElement('li');
+    //         const listItemText = document.createTextNode(el.title);
+    //         listItem.appendChild(listItemText);
+    //         listElemet.appendChild(listItem)
+    //     })
+    // }
+    // render()
+    //
+    //
+    // function addToList() {
+    //     const toDoInputValue = toDoInput.value;
+    //
+    //     list.push({
+    //         id: Math.random(),
+    //         title: toDoInputValue
+    //     })
+    //     listElemet.innerHTML = ''
+    //     render()
+    //     toDoInput.value = ''
+    // }
+
+</script>
+</body>
+</html>

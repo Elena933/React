@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08c13416-1dcd-4ce4-b554-b6e86a4abe30" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/.idea/to-do-for-inter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/src/TaskItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../to-do-for-inter/src/TaskList.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../untitled1/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../GitHub/basic_html/basic_html_old" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../GitHub/basic_html/basic_html_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../GitHub/basic_js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../GitHub/basic_js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../interv/.idea/interv.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/New folder/2023_RESUME OLENA KRYVONIS - Copy.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/New folder/2023_RESUME OLENA KRYVONIS - Copy.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/New folder/~$23_RESUME OLENA KRYVONIS - Copy.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/src/components/header/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../resume/Portfolio/src/components/header/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../resume/Portfolio/src/components/header/header.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FBkb5RTBgaMlOsKm82BFMSIahL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Elena/OneDrive/Documents/PASV/ReactPASV/Routes/react-router",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08c13416-1dcd-4ce4-b554-b6e86a4abe30" name="Changes" comment="" />
+      <created>1663972933199</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663972933199</updated>
+      <workItem from="1663972940572" duration="7699000" />
+      <workItem from="1664240679588" duration="1559000" />
+      <workItem from="1664414046521" duration="101000" />
+      <workItem from="1695516583626" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
